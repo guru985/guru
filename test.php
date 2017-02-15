@@ -2,5 +2,6 @@
 
 
 print "Test Page";
+print "guru";
 
 ?>
